@@ -80,9 +80,6 @@
     <Compile Include="..\WebSocket4Net\DataReceivedEventArgs.cs">
       <Link>DataReceivedEventArgs.cs</Link>
     </Compile>
-    <Compile Include="..\WebSocket4Net\ExtensionAttribute.cs">
-      <Link>ExtensionAttribute.cs</Link>
-    </Compile>
     <Compile Include="..\WebSocket4Net\Extensions.cs">
       <Link>Extensions.cs</Link>
     </Compile>
